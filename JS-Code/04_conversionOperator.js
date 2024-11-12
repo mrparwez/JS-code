@@ -20,3 +20,5 @@ ConversionOperator is way to convert the such type of data store in the variable
 as per our requirmrnts. 
 
 */ 
+
+//**********************Operation******************
