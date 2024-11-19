@@ -1,2 +1,4 @@
 # JS-code
-Complete JS Code
+Complete JS Code.
+Uploaded the notes for Bsic to Advance.
+
