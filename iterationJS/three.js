@@ -29,3 +29,11 @@ newArr=[]
 // }
 
 
+const map1= new Map()
+map1.set('IN','India')
+map1.set('USA','United States of America')
+map1.set('FR','France')
+map1.set('IN','India')      //So basically Key sould be unique and value can be duplicate.
+map1.set('IND','India')
+
+console.log(map1);
