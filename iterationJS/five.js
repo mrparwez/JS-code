@@ -91,3 +91,4 @@ const myArray=[1,1,2,1,2,4,4,5,3,2,4,5,6,6,7]
 // const Result=myArray.map( (i) => i+10)
 // console.log(Result)     //There are many way to code in JavaScript........
 
+
